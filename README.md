@@ -1,6 +1,7 @@
 # Tauri + React + Typescript
 
 This template should help get you started developing with Tauri, React and Typescript in Vite.
+一款基于Rust+Tauri+React 开发的adb命令工具
 
 ## Recommended IDE Setup
 
